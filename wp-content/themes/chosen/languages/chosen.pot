@@ -1,0 +1,569 @@
+# Copyright (C) 2018 Compete Themes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Chosen 1.28\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2018-10-02 00:35:09+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.4.9\n"
+
+#: 404.php:6
+msgid "404: Page Not Found"
+msgstr ""
+
+#: 404.php:9
+msgid ""
+"Looks like nothing was found on this url.  Double-check that the url is "
+"correct or try the search form below to find what you were looking for."
+msgstr ""
+
+#: comments.php:12 comments.php:32 comments.php:54
+msgid "Be First to Comment"
+msgstr ""
+
+#: comments.php:12 comments.php:32 comments.php:54
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:46
+msgid ""
+"Comments are closed, but <a href=\"%s\" title=\"Trackback URL for this "
+"post\">trackbacks</a> and pingbacks are open."
+msgstr ""
+
+#: comments.php:68 comments.php:84
+msgid "Comments are closed."
+msgstr ""
+
+#: content/comments-link.php:2
+msgid "comment icon"
+msgstr ""
+
+#: content/comments-link.php:5
+msgid "Comments closed"
+msgstr ""
+
+#: content/comments-link.php:5 content/comments-link.php:8
+msgid "1 Comment"
+msgstr ""
+
+#: content/comments-link.php:8
+msgid "Leave a Comment"
+msgstr ""
+
+#: content/post-categories.php:9
+msgid "Categories:"
+msgstr ""
+
+#: content/post-nav-attachment.php:3
+msgid "Previous Image"
+msgstr ""
+
+#: content/post-nav-attachment.php:6
+msgid "Next Image"
+msgstr ""
+
+#: content/post-nav.php:8
+msgid "Previous Post"
+msgstr ""
+
+#: content/post-nav.php:9
+msgid "The Previous Post"
+msgstr ""
+
+#: content/post-nav.php:12
+msgid "No Older Posts"
+msgstr ""
+
+#: content/post-nav.php:13 content/post-nav.php:27
+msgid "Return to Blog"
+msgstr ""
+
+#: content/post-nav.php:22
+msgid "Next Post"
+msgstr ""
+
+#: content/post-nav.php:23
+msgid "The Next Post"
+msgstr ""
+
+#: content/post-nav.php:26
+msgid "No Newer Posts"
+msgstr ""
+
+#: content/post-tags.php:6
+msgid "Tags:"
+msgstr ""
+
+#: content/post-tags.php:9
+msgid "View all posts tagged %s"
+msgstr ""
+
+#: content/search-bar.php:11 searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: content/search-bar.php:12
+msgid "Search..."
+msgstr ""
+
+#: content/search-bar.php:13 searchform.php:5
+msgid "Search for:"
+msgstr ""
+
+#: content-page.php:11 content.php:12 templates/full-width.php:21
+msgid "Pages:"
+msgstr ""
+
+#: footer.php:11
+msgid "<a href=\"%1$s\">%2$s WordPress Theme</a> by Compete Themes."
+msgstr ""
+
+#: functions.php:18
+msgid ""
+"Hey! Sorry to interrupt, but you've been using Chosen for a little while "
+"now. If you're happy with this theme, could you take a minute to leave a "
+"review? <i>You won't see this notice again after closing it.</i>"
+msgstr ""
+
+#: functions.php:57
+msgid "Primary"
+msgstr ""
+
+#: functions.php:80
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:104
+msgid "(optional)"
+msgstr ""
+
+#: functions.php:123
+msgid "Website"
+msgstr ""
+
+#: functions.php:177 functions.php:191 inc/customizer.php:261
+msgid "Continue Reading"
+msgstr ""
+
+#: functions.php:451
+msgid "Featured Post"
+msgstr ""
+
+#: functions.php:514
+msgid "Customizer settings deleted."
+msgstr ""
+
+#: functions.php:520
+msgid "%s successfully activated!"
+msgstr ""
+
+#: functions.php:745
+msgid "Scroll to the top"
+msgstr ""
+
+#: header.php:11
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer.php:15
+msgid "Front Page"
+msgstr ""
+
+#: inc/customizer.php:29
+msgid ""
+"<a target=\"_blank\" href=\"%1$s\">%2$s Pro</a> is the plugin that makes "
+"advanced customization simple - and fun too!"
+msgstr ""
+
+#: inc/customizer.php:30
+msgid "%1$s Pro adds the following features to %1$s:"
+msgstr ""
+
+#: inc/customizer.php:32
+msgid "6 new layouts"
+msgstr ""
+
+#: inc/customizer.php:33
+msgid "Custom colors"
+msgstr ""
+
+#: inc/customizer.php:34
+msgid "New fonts"
+msgstr ""
+
+#: inc/customizer.php:35
+msgid "+ 7 more features"
+msgstr ""
+
+#: inc/customizer.php:37
+msgid "View %s Pro"
+msgstr ""
+
+#: inc/customizer.php:39
+msgid "Chosen Pro is 100% compatible with the Chosen Gamer child theme."
+msgstr ""
+
+#: inc/customizer.php:50 theme-options.php:32
+msgid "%s Pro"
+msgstr ""
+
+#: inc/customizer.php:70
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer.php:80
+msgid "Upload custom logo."
+msgstr ""
+
+#: inc/customizer.php:96
+msgid "Social Media Icons"
+msgstr ""
+
+#: inc/customizer.php:98
+msgid "Add the URL for each of your social profiles."
+msgstr ""
+
+#: inc/customizer.php:111
+msgid "Email Address"
+msgstr ""
+
+#: inc/customizer.php:122
+msgid "Phone"
+msgstr ""
+
+#: inc/customizer.php:132
+msgid "Google Plus"
+msgstr ""
+
+#: inc/customizer.php:134
+msgid "RSS"
+msgstr ""
+
+#: inc/customizer.php:136
+msgid "SoundCloud"
+msgstr ""
+
+#: inc/customizer.php:138
+msgid "SlideShare"
+msgstr ""
+
+#: inc/customizer.php:140
+msgid "CodePen"
+msgstr ""
+
+#: inc/customizer.php:142
+msgid "StumbleUpon"
+msgstr ""
+
+#: inc/customizer.php:144
+msgid "DeviantArt"
+msgstr ""
+
+#: inc/customizer.php:146
+msgid "Hacker News"
+msgstr ""
+
+#: inc/customizer.php:148
+msgid "Google Wallet"
+msgstr ""
+
+#: inc/customizer.php:150
+msgid "WhatsApp"
+msgstr ""
+
+#: inc/customizer.php:152
+msgid "QQ"
+msgstr ""
+
+#: inc/customizer.php:154
+msgid "VK"
+msgstr ""
+
+#: inc/customizer.php:156
+msgid "WeChat"
+msgstr ""
+
+#: inc/customizer.php:158
+msgid "Tencent Weibo"
+msgstr ""
+
+#: inc/customizer.php:160
+msgid "PayPal"
+msgstr ""
+
+#: inc/customizer.php:162
+msgid "Contact Form"
+msgstr ""
+
+#: inc/customizer.php:164
+msgid "OK.ru"
+msgstr ""
+
+#: inc/customizer.php:166
+msgid "Stack Overflow"
+msgstr ""
+
+#: inc/customizer.php:178
+msgid ""
+"Accepts Skype link protocol (<a href=\"%s\" target=\"_blank\">learn "
+"more</a>)"
+msgstr ""
+
+#: inc/customizer.php:204
+msgid "Search Bar"
+msgstr ""
+
+#: inc/customizer.php:215
+msgid "Show search bar at top of site?"
+msgstr ""
+
+#: inc/customizer.php:219 inc/customizer.php:371
+msgid "Show"
+msgstr ""
+
+#: inc/customizer.php:220 inc/customizer.php:372
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer.php:238
+msgid "Show full posts on blog?"
+msgstr ""
+
+#: inc/customizer.php:243 inc/customizer.php:291 inc/customizer.php:307
+#: inc/customizer.php:323 inc/customizer.php:390
+msgid "Yes"
+msgstr ""
+
+#: inc/customizer.php:244 inc/customizer.php:292 inc/customizer.php:308
+#: inc/customizer.php:324 inc/customizer.php:391
+msgid "No"
+msgstr ""
+
+#: inc/customizer.php:254
+msgid "Excerpt word count"
+msgstr ""
+
+#: inc/customizer.php:266
+msgid "Read More button text"
+msgstr ""
+
+#: inc/customizer.php:276
+msgid "Additional Options"
+msgstr ""
+
+#: inc/customizer.php:286
+msgid "Make first post on blog extra wide?"
+msgstr ""
+
+#: inc/customizer.php:302
+msgid "Display post author name in byline?"
+msgstr ""
+
+#: inc/customizer.php:318
+msgid "Display Scroll-to-top arrow?"
+msgstr ""
+
+#: inc/customizer.php:344
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer.php:355
+msgid "Add Custom CSS Here:"
+msgstr ""
+
+#: inc/review.php:113
+msgid "Click here to leave your review"
+msgstr ""
+
+#: index.php:19
+msgid "Previous"
+msgstr ""
+
+#: index.php:20
+msgid "Next"
+msgstr ""
+
+#: search.php:9
+msgid "%1$d search result for \"%2$s\""
+msgid_plural "%1$d search results for \"%2$s\""
+msgstr[0] ""
+msgstr[1] ""
+
+#: search.php:11
+msgid "No search results for \"%s\""
+msgstr ""
+
+#: search.php:35
+msgid "Can't find what you're looking for?  Try refining your search:"
+msgstr ""
+
+#: searchform.php:6
+msgid "Go"
+msgstr ""
+
+#: theme-options.php:4 theme-options.php:19
+msgid "%s Dashboard"
+msgstr ""
+
+#: theme-options.php:23
+msgid "Get Started"
+msgstr ""
+
+#: theme-options.php:24
+msgid ""
+"Not sure where to start? The <strong>%1$s Getting Started Guide</strong> "
+"will take you step-by-step through every feature in %1$s."
+msgstr ""
+
+#: theme-options.php:27
+msgid "View Guide"
+msgstr ""
+
+#: theme-options.php:33
+msgid ""
+"Download the %s Pro plugin and unlock custom colors, new layouts, sliders, "
+"and more"
+msgstr ""
+
+#: theme-options.php:36
+msgid "See Full Feature List"
+msgstr ""
+
+#: theme-options.php:41 theme-options.php:43
+msgid "Leave a Review"
+msgstr ""
+
+#: theme-options.php:42
+msgid "Help others find %s by leaving a review on wordpress.org."
+msgstr ""
+
+#: theme-options.php:46
+msgid "Turn %s into a Mobile App"
+msgstr ""
+
+#: theme-options.php:47
+msgid ""
+"%s can be converted into a mobile app and listed on the App Store and "
+"Google Play Store with the help of PressPad News. Read our tutorial to "
+"learn more."
+msgstr ""
+
+#: theme-options.php:48
+msgid "Read Tutorial"
+msgstr ""
+
+#: theme-options.php:51 theme-options.php:59
+msgid "Reset Customizer Settings"
+msgstr ""
+
+#: theme-options.php:53
+msgid ""
+"<strong>Warning:</strong> Clicking this button will erase the %2$s theme's "
+"current settings in the <a href=\"%1$s\">Customizer</a>."
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Chosen is a bold and minimalist theme for publishers who want to get their "
+"visitors' attention and keep it. Present your best content in a simple, "
+"uncluttered fashion on phones, tablets, and desktop computers with Chosen. "
+"Use Chosen to start a blog, magazine, or news site in any niche: fashion, "
+"business, gaming, food, travel. As a free theme, you can use Chosen for as "
+"many sites as you want. It can even be used for video, podcasts, and "
+"personal resumes. Now with WooCommerce support, you can also add an "
+"eCommerce store to your website. Preview Chosen now on desktop, tablets, "
+"and mobile devices with the interactive live demo: "
+"https://www.competethemes.com/demos/?theme=chosen"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full-width"
+msgstr ""
+
+#: comments.php:12 comments.php:32 comments.php:54 content/comments-link.php:5
+#: content/comments-link.php:8
+msgctxt "noun: 5 comments"
+msgid "% Comments"
+msgstr ""
+
+#: content/archive-header.php:4
+msgctxt "noun: Site Title's Posts"
+msgid "Posts"
+msgstr ""
+
+#: content/post-byline.php:5
+msgctxt "Published DATE"
+msgid "Published %s"
+msgstr ""
+
+#: content/post-byline.php:12
+msgctxt "Published DATE by AUTHOR "
+msgid "By"
+msgstr ""
+
+#: content/post-categories.php:11
+msgctxt "View all posts in CATEGORY"
+msgid "View all posts in %s"
+msgstr ""
+
+#: functions.php:88
+msgctxt "verb: reply to this comment"
+msgid "Reply"
+msgstr ""
+
+#: functions.php:92
+msgctxt "verb: edit this comment"
+msgid "Edit"
+msgstr ""
+
+#: functions.php:109
+msgctxt "noun"
+msgid "Name"
+msgstr ""
+
+#: functions.php:116
+msgctxt "noun"
+msgid "Email"
+msgstr ""
+
+#: functions.php:145
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: functions.php:380 functions.php:381
+msgctxt "noun"
+msgid "email"
+msgstr ""
+
+#: functions.php:438 header.php:22 inc/scripts.php:16
+msgctxt "verb: open the menu"
+msgid "open menu"
+msgstr ""
+
+#: inc/customizer.php:228
+msgctxt "noun: the blog section"
+msgid "Blog"
+msgstr ""
+
+#: inc/scripts.php:17
+msgctxt "verb: close the menu"
+msgid "close menu"
+msgstr ""
+
+#: inc/scripts.php:18
+msgctxt "verb: open the dropdown menu"
+msgid "open dropdown menu"
+msgstr ""
+
+#: inc/scripts.php:19
+msgctxt "verb: close the dropdown menu"
+msgid "close dropdown menu"
+msgstr ""
